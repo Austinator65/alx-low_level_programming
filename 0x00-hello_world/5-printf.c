@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
  * main - aa program that prints certain words
- * return 0 (success)
+ * return: 0 (success)
 */
 int main(void)
 {
